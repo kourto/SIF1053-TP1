@@ -1,5 +1,5 @@
-#SIF1053 -   Architecture des ordinateurs
-#TP1     -   Auteur: Yves Courteau
+#SIF1053-TP1
+#Architecture des ordinateurs
 
 **Pour faire la compilation avec gcc dans le terminal:**
 gcc *.c -lm -o TP1
@@ -10,7 +10,7 @@ gcc *.c -lm -o TP1
 ______________________________________________________________________________________________________
 
 Les 5 exercices demandés pour le TP se retrouvent dans plusieurs fichiers séparés, chacun d'entre
-eux a un entête qui décrit ce que la fonction fait et chaque fonction on un commentaire d'entête 
+eux a un entête qui décrit ce que la fonction fait et chaque fonction on un commentaire d'entête
 avec les INPUTS et OUTPUTS.
 
 Comme expliquer par courriel, le programme fonctionne très bien sous une distribution Linux.
