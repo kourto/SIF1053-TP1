@@ -1,5 +1,5 @@
-#SIF1053-TP1
-#Architecture des ordinateurs
+# SIF1053-TP1
+## Architecture des ordinateurs
 
 **Pour faire la compilation avec gcc dans le terminal:**
 gcc *.c -lm -o TP1
